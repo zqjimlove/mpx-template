@@ -4,7 +4,7 @@
       "@babel/env",
       {
         "modules": false,
-        "useBuiltIns": "usage",
+        "useBuiltIns": "entry",
         "targets": {
           "browsers": ["chrome >= 53", "ios >= 8"]
         }
